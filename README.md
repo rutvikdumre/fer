@@ -18,3 +18,8 @@ https://www.kaggle.com/lxyuan0420/facial-expression-recognition-using-cnn
 # Output & Results [Webcam]
 ![image](https://user-images.githubusercontent.com/45359655/116263127-be071400-a796-11eb-86a9-78122be87da0.png)
 
+# Run the Project
+```
+pip install requirements.txt
+python cv_cam_facial_expression.py
+```
